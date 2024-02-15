@@ -55,7 +55,7 @@ contract OkeToken is IERC20 {
 
         balances[msg.sender] = balances[msg.sender].sub(numTokens);
         balances[receiver] = balances[receiver].add(numTokens);
-        burn(msg.sender, numTokens);
+        burn(msg.sender, amountToBurn);
         emit Transfer(msg.sender, receiver, numTokens);
         return true;
     }
