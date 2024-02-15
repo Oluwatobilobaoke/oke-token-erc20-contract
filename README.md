@@ -1,10 +1,8 @@
-# SaveEther Smart Contract
-
-A smart contract that allows users to save ether and withdraw it later.
+# ERC20 Smart Contract
 
 [0x94123523FB53055B5486822c2DDe1B46a8CD69E1](https://sepolia.etherscan.io/address/0x94123523FB53055B5486822c2DDe1B46a8CD69E1)
 
-## ERCO 20
+## ERC 20
 
 ---
 
