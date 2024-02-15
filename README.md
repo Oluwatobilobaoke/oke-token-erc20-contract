@@ -1,10 +1,23 @@
-# ERC20 Smart Contract
+# SaveEther Smart Contract
 
-A smart contract that creates ERC20 tokens.
+A smart contract that allows users to save ether and withdraw it later.
 
 [0x94123523FB53055B5486822c2DDe1B46a8CD69E1](https://sepolia.etherscan.io/address/0x94123523FB53055B5486822c2DDe1B46a8CD69E1)
 
+## ERCO 20
+
+---
+
+### Token Name: OKEToken
+
+### CA: 0x94123523FB53055B5486822c2DDe1B46a8CD69E1
+
+### link: [0x94123523FB53055B5486822c2DDe1B46a8CD69E1](<https://rinkeby.etherscan.io/address/0x94123523FB53055B5486822c2DDe1B46a8CD69E1>
+
+)
 Code is written in Solidity and tested with Hardhat.
+
+[![SaveEther](images/save-ether.png)](https://res.cloudinary.com/oluwatobiloba/image/upload/v1707992752/Screenshot_2024-02-15_at_11.21.40_ktzo6t.png)
 
 ## Install
 
