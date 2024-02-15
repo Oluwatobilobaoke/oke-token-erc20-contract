@@ -1,6 +1,6 @@
 # ERC20 Smart Contract
 
-[0x94123523FB53055B5486822c2DDe1B46a8CD69E1](https://sepolia.etherscan.io/address/0x94123523FB53055B5486822c2DDe1B46a8CD69E1)
+[0x5FbDB2315678afecb367f032d93F642f64180aa3](https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3)
 
 ## ERC 20
 
@@ -8,9 +8,9 @@
 
 ### Token Name: OKEToken
 
-### CA: 0x94123523FB53055B5486822c2DDe1B46a8CD69E1
+### CA: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 
-### link: [0x94123523FB53055B5486822c2DDe1B46a8CD69E1](<https://rinkeby.etherscan.io/address/0x94123523FB53055B5486822c2DDe1B46a8CD69E1>
+### link: [0x5FbDB2315678afecb367f032d93F642f64180aa3](<https://rinkeby.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3>
 
 )
 Code is written in Solidity and tested with Hardhat.
