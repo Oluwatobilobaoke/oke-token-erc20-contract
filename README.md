@@ -10,7 +10,7 @@
 
 ### CA: 0xfe899855Dac325727f7Ae33927279DCB1Ab0872D
 
-### link: [0xfe899855Dac325727f7Ae33927279DCB1Ab0872D](<https://rinkeby.etherscan.io/address/0xfe899855Dac325727f7Ae33927279DCB1Ab0872D>
+### link: [0xfe899855Dac325727f7Ae33927279DCB1Ab0872D](<https://sepolia.etherscan.io/address/0xfe899855Dac325727f7Ae33927279DCB1Ab0872D>
 
 )
 Code is written in Solidity and tested with Hardhat.
